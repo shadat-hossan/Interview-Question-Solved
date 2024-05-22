@@ -1,0 +1,47 @@
+
+.tile-container{
+    border: 1px solid #888;
+    padding: 20px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    -webkit-box-shadow: -1px 0px 11px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 0px 11px -1px rgba(0,0,0,0.75);
+    box-shadow: -1px 0px 11px -1px rgba(0,0,0,0.75);
+}
+
+.tile-container h2{
+    width: 100%;
+    text-align: center;
+    margin-bottom:14px;
+}
+
+.tile-grid {
+    display: grid;
+    grid-template-columns: repeat(6, 50px);
+    grid-gap: 10px;
+  }
+  
+  .tile {
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
+  .tile:hover {
+    background-color: #e0e0e0;
+  }
+  
+  #outputString {
+    margin-top: 20px;
+    font-size: 20px;
+
+  }
+
+ 
