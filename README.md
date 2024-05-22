@@ -6,8 +6,8 @@ This repository is owned by Masterkey Technologies Ltd. of the company. The main
 
 ## Project
 
-- [1. Recursive-partitioning](https://shadat-hossain.netlify.app/)
-- [2. Alphabet Tile Interaction](https://shadat-hossain.netlify.app/)
+- [1. Recursive-partitioning](https://github.com/shadat-hossan/Interview-Question-Solved/tree/main/1.%20Recursive-partitioning)
+- [2. Alphabet Tile Interaction](https://github.com/shadat-hossan/Interview-Question-Solved/tree/main/2.%20Alphabet%20Tile%20Interaction)
 
 ### 1 (HTML, CSS, JavaScript)
 
