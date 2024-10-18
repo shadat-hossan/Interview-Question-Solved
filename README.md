@@ -1,22 +1,28 @@
-# Frontend Task for Masterkey Technologies Ltd.
+# Frontend Task for Bdcalling IT Ltd.
 
-This repository is owned by Masterkey Technologies Ltd. of the company. The main purpose of this reporter is to answer two questions and show the project
+This repository is owned by **Bdcalling IT Ltd.** The main purpose of this repository is to answer two questions and showcase the following projects.
 
-![Logo](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-1/286575110_151993967379777_8481173031379802036_n.jpg?stp=dst-jpg_p200x200&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=mLd6fC7QrbgQ7kNvgGswZhi&_nc_ht=scontent.fdac13-1.fna&oh=00_AYDc4fvPqmr16I6yuydR0uCLNacwLz9FqPMqQwbP0i8lhQ&oe=66537C70)
+![Logo](https://bdcalling.com/wp-content/themes/bdcalling/assets/images/Bdcalling%20Black%20logo.png)
 
-## Project
+## Projects
 
-- [1. Recursive-partitioning](https://github.com/shadat-hossan/Interview-Question-Solved/tree/main/1.%20Recursive-partitioning)
-- [2. Alphabet Tile Interaction](https://github.com/shadat-hossan/Interview-Question-Solved/tree/main/2.%20Alphabet%20Tile%20Interaction)
+### 1. Recursive Partitioning (HTML, CSS, JavaScript)
+This project demonstrates recursive partitioning techniques using core web technologies. It features an interactive view showcasing the recursive division of elements.
 
-### 1 (HTML, CSS, JavaScript)
+- [View Project](https://github.com/shadat-hossan/Interview-Question-Solved/tree/main/1.%20Recursive-partitioning)
 
-![Logo](./1.%20Recursive-partitioning/imgge/1.%20Recursive-partitioning%20View.jpeg)
+![Recursive Partitioning](https://raw.githubusercontent.com/shadat-hossan/Interview-Question-Solved/refs/heads/main/1.%20Recursive-partitioning/imgge/1.%20Recursive-partitioning%20View.jpeg?token=GHSAT0AAAAAACVZQYL37XLXZ4TZBTHPIY32ZYR4JJQ)
 
-### 2 (react.js)
+### 2. Alphabet Tile Interaction (React.js)
+This project involves a React.js implementation where users can interact with alphabet tiles. It's designed to demonstrate a dynamic front-end interface with user interaction capabilities.
 
-![Logo](./1.%20Recursive-partitioning/imgge/2.%20Alphabet%20Tile%20Interaction%20View.jpeg)
+- [View Project](https://github.com/shadat-hossan/Interview-Question-Solved/tree/main/2.%20Alphabet%20Tile%20Interaction)
 
-## INFO
+![Alphabet Tile Interaction](https://raw.githubusercontent.com/shadat-hossan/Interview-Question-Solved/refs/heads/main/1.%20Recursive-partitioning/imgge/2.%20Alphabet%20Tile%20Interaction%20View.jpeg?token=GHSAT0AAAAAACVZQYL2654IYSTEAOCJOEJ4ZYR4KOA)
 
-Website to connect with me: [shadat hossain](https://shadat-hossain.netlify.app/)
+## More Information
+
+To learn more about me and my work, visit my personal website: [Shadat Hossain](https://shadat-hossain.netlify.app/)
+
+---
+
